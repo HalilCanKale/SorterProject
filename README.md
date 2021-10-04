@@ -4,6 +4,7 @@ ___
 
 
 ## Table Of Content
+
 - ##### Project Purpose
 - ##### User Guide
 - ##### MergeSort
@@ -11,7 +12,7 @@ ___
 - ##### InsertionSort
 - ##### QuickSort
 - ##### Binary Sort Tree
-- ##### Maintenance & Aims
+- ##### Maintenance/Aims
 ___
 
 ## Project Purpose
@@ -168,5 +169,5 @@ ___
 ## Binary Sort Tree
 > Binary Sort Tree is still in works and is due to be complete. What is a binary sort tree? Binary sort tree is a sort algorithm that builds a binary search tree from the elements to be sorted, and then traverses the tree (in-order) so that the elements come out in sorted order. Its typical use is sorting elements online: after each insertion, the set of elements seen so far is available in sorted order.
 ___
-## Maintenance & Aims
+## Maintenance/Aims
 > This project is still going to be edited and modified. The BST sort is the priority at this moment and then onwards a user-friendly GUI is going to be implemented to finalise the project.
