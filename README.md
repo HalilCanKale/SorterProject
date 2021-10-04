@@ -13,7 +13,14 @@ ___
 ___
 
 ## Project Purpose
-This is a sorting application. The application aims to provide the user with the tools to be able to generate a random array of the size the user wants and then select the sorting methods the user would like to implement. The application then provides the user with the unsorted and sorted array followed by the time taken (in Nano Seconds) for the sorting to complete successfully.
+> This is a sorting application. The application aims to provide the user with the tools to be able to generate a random array of the size the user wants and then select the sorting methods the user would like to implement. The application then provides the user with the unsorted and sorted array followed by the time taken (in Nano Seconds) for the sorting to complete successfully.
+___
+
+## User Guide
+- When the application begins the user is asked to input the size of the array they would like the app to generate.
+- Then the application will give the options of the sorting methods and the user will select from options 1-8. The user is able to also select more than one sorting method.
+- Once selected the user must click any letter on there keyboard and enter
+- Then the user is given a display of the sorted and unsorted array along with the times taken by each sort method to sort the array.
 ___
 ## Merge Sort
 > Merge Sort is a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves.
@@ -159,5 +166,5 @@ ___
 ## Binary Sort Tree
 > Binary Sort Tree is still in works and is due to be complete. What is a binary sort tree? Binary sort tree is a sort algorithm that builds a binary search tree from the elements to be sorted, and then traverses the tree (in-order) so that the elements come out in sorted order. Its typical use is sorting elements online: after each insertion, the set of elements seen so far is available in sorted order.
 ___
-## Maintenance & aims
+## Maintenance & Aims
 > This project is still going to be edited and modified. The BST sort is the priority at this moment and then onwards a user-friendly GUI is going to be implemented to finalise the project.
