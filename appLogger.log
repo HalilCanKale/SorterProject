@@ -1,0 +1,14 @@
+[INFO] 2021-10-04 17:46:04,129 My Application Logger sort Bubble sort completed
+[INFO] 2021-10-04 17:46:04,130 My Application Logger merge Merge sort completed
+[INFO] 2021-10-04 17:46:04,131 My Application Logger merge Merge sort completed
+[INFO] 2021-10-04 17:46:04,131 My Application Logger merge Merge sort completed
+[INFO] 2021-10-04 21:17:04,147 My Application Logger Choice QuickSort selected
+[INFO] 2021-10-04 21:17:04,156 My Application Logger Choice BubbleSort selected
+[INFO] 2021-10-04 21:55:08,898 My Application Logger Choice BinaryTreeSort selected
+[INFO] 2021-10-04 21:57:45,373 My Application Logger Choice BinaryTreeSort selected
+[INFO] 2021-10-04 21:57:45,385 My Application Logger Choice QuickSort selected
+[INFO] 2021-10-04 21:59:01,187 My Application Logger Choice BinaryTreeSort selected
+[INFO] 2021-10-04 22:01:13,867 My Application Logger Choice BinaryTreeSort selected
+[INFO] 2021-10-04 22:05:22,666 My Application Logger Choice BinaryTreeSort selected
+[INFO] 2021-10-04 22:06:06,065 My Application Logger Choice BinaryTreeSort selected
+[WARN] 2021-10-04 22:19:12,457 My Application Logger main Incorrect sort option entered!
