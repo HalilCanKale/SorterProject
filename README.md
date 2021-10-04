@@ -4,6 +4,8 @@ ___
 
 
 ## Table Of Content
+- ##### Project Purpose
+- ##### User Guide
 - ##### MergeSort
 - ##### BubbleSort
 - ##### InsertionSort
